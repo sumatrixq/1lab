@@ -1,0 +1,10 @@
+body { font-family : Arial, sans-serif; margin: 0; background: #f3f5f9}
+header, footer { background: #0f172a; color: white; padding: 15px 30px; }
+header a { color: #38bdf8; margin-left: 20px; text-decoration: none; }
+main { max-width: 900px; margin: 30px auto; padding:0 20px; min-height: 60vh; }
+.news {background: white; padding: 15px; margin-bottom: 15px; border-radius: 8px; }
+form {display: flex; flex-direction: column; gap:10px; max-width: 500px;}
+input, select, textarea {padding:8px; font-size: 16px;}
+button {padding: 8px 14px; cursor:pointer;}
+table {background: white; border-collapse: collapse; width: 100%; margin-bottom:30px; }
+td, th {border: 1px solid #ddd; padding: 10px; text-align: left;}label { font-weight: bold; }
